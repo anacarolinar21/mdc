@@ -1,0 +1,2 @@
+# mdc
+exercicio etec
